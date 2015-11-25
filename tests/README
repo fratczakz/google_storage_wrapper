@@ -1,0 +1,7 @@
+Tests
+======
+
+Test are organized in the following fashion:
+
+/modulename - directory with the input test vectors for the modulename.py (optional)
+test_modulename.py - test script for the modulename.py
